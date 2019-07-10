@@ -25,19 +25,18 @@
         </div>
 
         <div class="languageSetting">
-            <a href="/jp">日本語はこちら</a>
+            <a href="/">For English click here</a>
             <br>
         </div>
     </div>
 
-
-
     <div class="border-bottom"></div>
+    まだ翻訳中
 
     <div class="row">
         <div class="col-sm-4">
             <div class="columntitle mb-4">
-                Programming
+                プログラミング
             </div>
 
             <div class="card mb-2">
@@ -56,7 +55,7 @@
 
             <div class="card mb-2">
                 <div class="card-body">
-                        <h5 class="card-title">Shaders</h5>
+                        <h5 class="card-title">シェーダー</h5>
                         <div align="center" class="embed-responsive embed-responsive-16by9">
                             <video autoplay loop muted class="embed-responsive-item">
                             <source src="/vid/stencilshowcase.mp4" type="video/mp4">
@@ -92,11 +91,11 @@
         </div>
         <div class="col-sm-4">
             <div class="columntitle mb-4">
-                Hobby
+                趣味
             </div>
             <div class="card mb-2">
                 <div class="card-body">
-                    <h5 class="card-title">Models</h5>
+                    <h5 class="card-title">プラモ</h5>
                     <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner">
                             
@@ -122,7 +121,7 @@
             </div>
             <div class="card mb-2">
                 <div class="card-body">
-                    <h5 class="card-title">Photography</h5>
+                    <h5 class="card-title">撮影</h5>
                     <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner">
                             
@@ -157,7 +156,7 @@
             </div>
             <div class="card mb-2">
                 <div class="card-body">
-                    <h5 class="card-title">Japanese</h5>
+                    <h5 class="card-title">日本語</h5>
                     
                     <p class="card-text">Through my various hobbies I started studying Japanese on my own. I mostly focused on immersion learning through a lot of exposure to all kinds of media, from websites and podcasts to anime and classical movies. 
                     Eventually I started making online friends to practice conversations with, and by now I can easily get through a day without speaking a word of English with said friends.
@@ -171,7 +170,7 @@
             </div>
             <div class="card mb-2">
                 <div class="card-body">
-                    <h5 class="card-title">Education</h5>
+                    <h5 class="card-title">学歴</h5>
                     <p class="card-text">I graduated in the summer of 2018 with a bachelor's in computer science from the University of Utrecht. I followed a specific track focusing on game technology
                     which required a set of specific electives focusing on 3d rendering to be completed. In addition to game technology and general computer science, I took electives in information sciences.</p>
                     <p class="card-text cardalineatitle">Notable classes</p>
@@ -180,7 +179,7 @@
             </div>
             <div class="card mb-2">
                 <div class="card-body">
-                    <h5 class="card-title">Personality</h5>
+                    <h5 class="card-title">性格</h5>
                     <p class="card-text">Calm and collected, I am good at de-escalating conflicts between other parties. I tend to resolve conflicts I am part of with kindness and patience,
                         and don't get angry at all. I have been praised by co-workers and friends alike for my "cynical positivism", and can turn any bad situation into an observation about the
                         absurdity of human nature. 
@@ -193,7 +192,7 @@
             </div>
             <div class="card mb-2">
                 <div class="card-body">
-                    <h5 class="card-title">Goals</h5>
+                    <h5 class="card-title">目的</h5>
                     <p class="card-text">My passion and goal for the future lies in using technology to interface with the real world to create new artistic experiences. Whether it be through
                         experimental video games, AR applications or room-sized art installations, I want to create new forms of expression and let people experience things they normally wouldn't.
                     </p>
