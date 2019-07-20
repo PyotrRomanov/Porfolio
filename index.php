@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="contentheader mb-4">
-        Portfolio site    
+        Portfolio site - Bor Greve
     </div>
 
     <div class="wrapper">
@@ -62,7 +62,7 @@
                             <source src="/vid/stencilshowcase.mp4" type="video/mp4">
                             </video>
                         </div>
-                    <p class="card-text">During a university class on parallel programming I got my start writing shaders. I found it really enjoyable due to the almost mathematical purity and simplicity of it, so I continued in my free time. I have experience writing HLSL and CG shaders for Unity, both for hobby and professional projects.</p>
+                    <p class="card-text">During a university class on rendering I got my start writing shaders. I found it really enjoyable due to the almost mathematical purity and simplicity of it, so I continued in my free time. I have experience writing HLSL and CG shaders for Unity, both for hobby and professional projects.</p>
                 </div>
             </div>
 

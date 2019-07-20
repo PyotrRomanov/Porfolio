@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="contentheader mb-4">
-        Portfolio site    
+        Portfolio site - Bor Greve    
     </div>
 
     <div class="wrapper">
@@ -47,7 +47,7 @@
                             <source src="/vid/AR Business Card.mp4" type="video/mp4">
                             </video>
                         </div>
-                    <p class="card-text">My year at Fonk was varied and challenging. As it is a small company, I had to take on multiple roles. From being solely responsible for backends and full stack webapps to building cutting edge AR applications and shaders from scratch.</p>
+                    <p class="card-text">Fonk Amsterdamに働いた一年間は多様なプロジェクトに参加した。３０会社員で会社として小さいなので、色んなロール受け取らなきゃいけなかった。この一年間で会社のバックエンドの責任者になって、たった一人の３Dモデラーと二人で０からARアプリを作って、会社たった一人のシェーダーアーチストにもなった。</p>
                     <p class="card-text cardalineatitle">Notable projects</p>
                     <p class="card-text classlist">Jimmy Nelson Homage to Humanity (won a Webby), Ki for ING, AR Business card, other AR project that can't be publicized</p>
                 </div>
@@ -61,7 +61,7 @@
                             <source src="/vid/stencilshowcase.mp4" type="video/mp4">
                             </video>
                         </div>
-                    <p class="card-text">During a university class on parallel programming I got my start writing shaders. I found it really enjoyable due to the almost mathematical purity and simplicity of it, so I continued in my free time. I have experience writing HLSL and CG shaders for Unity, both for hobby and professional projects.</p>
+                    <p class="card-text">大学のレンダリング授業でシェーダープログラミング始めて、数学的な美しさを気にいったから趣味でも続けた。UnityでHLSLとCGを使う経験がある。趣味にも、そして会社のプロジェクトにも。</p>
                 </div>
             </div>
 
@@ -73,7 +73,7 @@
                             <source src="/vid/70 percent.mp4" type="video/mp4">
                             </video>
                         </div>
-                    <p class="card-text">A game made in 48 hours for Ludum Dare 41. The player must keep enemies from reaching the bottom of the screen, but every ability the player has splits the world into four distinct possibilities. The goal is to save as many worlds as possible.</p>
+                    <p class="card-text">Ludum Dareっていうゲームジャムで４８時間で作ったゲーム。目的は画面の下にあるベースを守ることだが、プレイヤーの攻撃が世界を４つの可能性に別れる。目的はできる限りその多数の世界を救うことです。</p>
                 </div>
             </div>
             <div class="card mb-2">
@@ -84,7 +84,7 @@
                             <source src="/vid/corridor.mp4" type="video/mp4">
                             </video>
                         </div>
-                    <p class="card-text">In a small team we made a training simulation for the Dutch railway innovation division. It uses real data provided by ProRail to let the players experience the tribulations of a train traffic controller. The game is played by multiple people at the same time using different touch monitors, so even the communication elements of the job are retained.</p>
+                    <p class="card-text">オランダの鉄道会社の技術革新部でシミュレーションゲームを作った。リアルに使われているデータをベースにして、電車の配車係の仕事を全部ゲームにした。マルチプレイヤーも可能だから、リアルと同じようなコミュニケーションが必要。主に新社員のトレーニングで使われている。</p>
                 </div>
             </div>
             
@@ -116,7 +116,7 @@
                             </div>
                         </div>
                     </div>
-                    <p class="card-text">I like making things with my hands as well as with code. I mostly build and paint sci-fi models, both from existing properties and of my own design.</p>
+                    <p class="card-text">コードだけじゃなくて、物理的な物作りにも興味ある。主にSFプラモ作って、塗装してる。自分がデザインしたものも、人気フランチャイズのデザインも、いつも色んなスタイルを表現してみる。</p>
                 </div>
             </div>
             <div class="card mb-2">
@@ -151,15 +151,14 @@
                             </div>
                         </div>
                     </div>
-                    <p class="card-text">Be it here in Amsterdam or on the other side of the world in Japan, taking pictures that convey my aesthetic sensibilities is another outlet for creativity.</p>
+                    <p class="card-text">写真を撮るのも私的な美学を表現できる方法になった。旅行でも、ただの散歩でも必ずカメラを持ちながら歩きたい。</p>
                 </div>
             </div>
             <div class="card mb-2">
                 <div class="card-body">
                     <h5 class="card-title">日本語</h5>
                     
-                    <p class="card-text">Through my various hobbies I started studying Japanese on my own. I mostly focused on immersion learning through a lot of exposure to all kinds of media, from websites and podcasts to anime and classical movies. 
-                    Eventually I started making online friends to practice conversations with, and by now I can easily get through a day without speaking a word of English with said friends.
+                    <p class="card-text">色んな趣味のつながりで日本語を勉強始めた。最初はイマージョン・プログラムみたいな考え方で、ただいっぱいアニメや映画観て、ラジオ番組や落語聞いて、ゲームやって、漫画読んで、などなど。こういう独学でなんとなく会話できるようになったから、言語交換アプリでネット友達できて、今は毎日ラインやスカイプで練習してる。
                     </p>
                 </div>
             </div>
@@ -171,8 +170,8 @@
             <div class="card mb-2">
                 <div class="card-body">
                     <h5 class="card-title">学歴</h5>
-                    <p class="card-text">I graduated in the summer of 2018 with a bachelor's in computer science from the University of Utrecht. I followed a specific track focusing on game technology
-                    which required a set of specific electives focusing on 3d rendering to be completed. In addition to game technology and general computer science, I took electives in information sciences.</p>
+                    <p class="card-text">2018年の夏、ユトレヒト大学卒業（Computer science）。在学中は、情報工学を専攻した。
+                        アムステルダム大学じゃなくて、ユトレヒト大学に行ったのはゲームテクノロジーっていう専攻があったから。主に普通の情報工学だったけど、その上にも３Dレンダリング、シェーダー、色んなゲーム関係のコースもとらなきゃいけなかった。</p>
                     <p class="card-text cardalineatitle">Notable classes</p>
                     <p class="card-text classlist">Imperative Programming, Algorithms & Complexity, Data structures, Databases, Concurrency, Functional programming, Artificial Intelligence, Machine Learning, Neural Networks, Languages & Compilers, Computer Graphics, 3D Modelling, Game Design, Software Testing & Verification, Design Patterns & UML, Cognition & Emotion, Image Processing </p>
                 </div>
@@ -180,21 +179,17 @@
             <div class="card mb-2">
                 <div class="card-body">
                     <h5 class="card-title">性格</h5>
-                    <p class="card-text">Calm and collected, I am good at de-escalating conflicts between other parties. I tend to resolve conflicts I am part of with kindness and patience,
-                        and don't get angry at all. I have been praised by co-workers and friends alike for my "cynical positivism", and can turn any bad situation into an observation about the
-                        absurdity of human nature. 
+                    <p class="card-text">冷静でポジティブだとよく言われる。コンフリクトが起こると冷静な考え方とエンパシーで人を落ち着くが多い。ストレスかかっても怒らない、むしろ笑う。同僚に「Cynical positivism」が褒められたことが多くて、どんなに辛い状況でもユーモアで楽にする。
                     </p>
                     <p class="card-text">
-                        My strong suit in human interaction is empathy. I place great importance in properly understanding not just what a person technically said, but what they meant
-                        and why they said what they did. 
+                        コミュニケーション的に得意はエンパシー。返事する前に「何を言った」だけじゃなくて、「何を言いたかった」と、「何故それを言おうとした」を理解したい。 
                     </p>
                 </div>
             </div>
             <div class="card mb-2">
                 <div class="card-body">
                     <h5 class="card-title">目的</h5>
-                    <p class="card-text">My passion and goal for the future lies in using technology to interface with the real world to create new artistic experiences. Whether it be through
-                        experimental video games, AR applications or room-sized art installations, I want to create new forms of expression and let people experience things they normally wouldn't.
+                    <p class="card-text">技術を使って、新しい美術的な表現を作りたい。実験的ゲームやアート系ゲームでも、ARアプリでも、ルームスケールデジタルアートでも、日常では経験できないものを客に体験させたい。
                     </p>
                 </div>
             </div>
