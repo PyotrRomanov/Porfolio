@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="contentheader mb-4">
-        Portfolio site - Bor Greve
+        Portfolio - Bor Greve
     </div>
 
     <div class="wrapper">
@@ -25,7 +25,7 @@
         </div>
 
         <div class="languageSetting">
-            <a href="/jp">日本語はこちら</a>
+            <a href="/jp.php">日本語はこちら</a>
             <br>
         </div>
     </div>

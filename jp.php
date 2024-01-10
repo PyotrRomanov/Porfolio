@@ -14,7 +14,7 @@
 <div class="container">
 
     <div class="contentheader mb-4">
-        Portfolio site - Bor Greve    
+        Portfolio - Bor Greve    
     </div>
 
     <div class="wrapper">
@@ -31,7 +31,6 @@
     </div>
 
     <div class="border-bottom"></div>
-    まだ翻訳中
 
     <div class="row">
         <div class="col-sm-4">
